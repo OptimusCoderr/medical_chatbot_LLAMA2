@@ -3,4 +3,5 @@ sentence-transformers==2.2.2
 pinecone-client
 langchain==0.0.225
 flask
-faiss==1.5.3
+faiss-cpu
+
