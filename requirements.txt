@@ -5,4 +5,4 @@ langchain==0.0.225
 flask
 faiss-cpu
 pypdf
-
+-e .
